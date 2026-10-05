@@ -1,3 +1,5 @@
 streamlit==1.40.1
 plotly
 pandas
+requests
+beautifulsoup4
