@@ -22,9 +22,9 @@
 公网地址：https://wenmaigu-app-2026.streamlit.app
 
 ## 本地运行
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
-streamlit run app.py
+- streamlit run app.py
 
 ## 项目结构
 - app.py                 # 主界面
