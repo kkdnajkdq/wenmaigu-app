@@ -23,6 +23,7 @@
 
 ## 本地运行
 pip install -r requirements.txt
+
 streamlit run app.py
 
 ## 项目结构
