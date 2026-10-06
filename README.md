@@ -36,4 +36,4 @@ streamlit run app.py
 - 队长：欧远乐
 - 成员：花展颜
 - 指导教师：苏红军
-- 学校：昆明理工大学<img width="2528" height="1530" alt="image" src="https://github.com/user-attachments/assets/77bd44c4-0ca3-434d-babc-57e3f6044719" />
+- 学校：昆明理工大学
